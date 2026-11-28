@@ -1,7 +1,7 @@
 {
-  "name": "Paradoxical",
-  "short_name": "Paradoxical",
-  "id": "orgCideviaInteractive.Paradoxical",
+  "name": "Paradoxical Game",
+  "short_name": "Paradoxical Game",
+  "id": "org.CideviaInteractive.Paradoxical",
   "description": "Free and open-source game",
   "orientation": "landscape",
   "start_url": "./index.html",

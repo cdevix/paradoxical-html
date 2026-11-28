@@ -9,7 +9,7 @@ gdjs.evtsExt__FireBullet__DefineHelperClasses = {};
 gdjs.evtsExt__FireBullet__DefineHelperClasses.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__FireBullet__DefineHelperClasses.userFunc0x1a646e8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__FireBullet__DefineHelperClasses.userFunc0x1b57428 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 //@ts-ignore
 if (gdjs.__fireBulletExtension) {
@@ -57,7 +57,7 @@ gdjs.evtsExt__FireBullet__DefineHelperClasses.eventsList0 = function(runtimeScen
 {
 
 
-gdjs.evtsExt__FireBullet__DefineHelperClasses.userFunc0x1a646e8(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__FireBullet__DefineHelperClasses.userFunc0x1b57428(runtimeScene, eventsFunctionContext);
 
 }
 
